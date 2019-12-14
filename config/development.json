@@ -1,0 +1,14 @@
+{
+    "name": "My express app - Development",
+    "mail": "dev-mail-server",
+    "port": 3000,
+    "db": {
+        "mongo": {
+            "host": "localhost",
+            "port": "27017",
+            "user": "",
+            "pass": "",
+            "db": "nodeApiRest"
+        }
+    }
+}

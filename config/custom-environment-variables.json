@@ -1,0 +1,14 @@
+{
+    "host": "",
+    "port": "APP_PORT",
+    "jwtPrivateKey": "APP_JWT_KEY",
+    "db": {
+        "mongo": {
+            "host": "APP_MONGO_HOST",
+            "port": "APP_MONGO_PORT",
+            "user": "APP_MONGO_USER",
+            "pass": "APP_MONGO_PASS",
+            "db": "APP_MONGO_DB"
+        }
+    }
+}
